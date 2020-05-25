@@ -17,6 +17,10 @@ https://medium.com/flawless-app-stories/best-resources-for-advanced-ios-develope
 
 https://www.raywenderlich.com/
 
+https://thinkster.io/a-better-way-to-learn-swift
+
+https://www.javatpoint.com/swift-tutorial
+
 ### Swift Official
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 
