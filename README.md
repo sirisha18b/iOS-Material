@@ -5,6 +5,10 @@ https://www.jdoodle.com/execute-swift-online/
 
 Code: https://www.codecademy.com/learn/learn-swift
 
+###Books
+https://github.com/PacktPublishing/Mastering-Swift-5-Fifth-Edition
+https://twitter.com/i/events/1195096341254418435
+
 ### References:
 
 https://www.tutorialspoint.com/swift/index.htm
