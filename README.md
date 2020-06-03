@@ -34,3 +34,7 @@ https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 ### Sample App Making
 
 https://www.youtube.com/watch?v=bxpuSEC_Q0M&feature=emb_logo
+
+### Queues 
+
+https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/#:~:text=What%20is%20a%20dispatch%20queue,re%20added%20to%20the%20queue.
