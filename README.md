@@ -48,3 +48,8 @@ https://insideiosdev.com/episodes
 ### Queues 
 
 https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/#:~:text=What%20is%20a%20dispatch%20queue,re%20added%20to%20the%20queue.
+
+---
+---
+### Blogs
+https://www.swiftbysundell.com/basics/
