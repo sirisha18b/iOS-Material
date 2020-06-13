@@ -51,3 +51,7 @@ https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/#:~:text=What%2
 ---
 ### Blogs
 https://www.swiftbysundell.com/basics/
+
+### YouTube
+---
+https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw/videos
