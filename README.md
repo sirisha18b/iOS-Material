@@ -51,6 +51,21 @@ https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/#:~:text=What%2
 
 https://customersupport.doubledutch.me/hc/en-us/articles/360001189514-iOS-How-to-Create-a-Distribution-Certificate
 
+#### Provision Profile
+* Create new identifier with desired bundle identifier
+* Create new profile with new identifier
+* This profile is called provision profile
+
+#### Distribution Cert
+* Create new cert with new identifier
+* Download and add to your key chain
+* Export this cert in .p12 format for AppCenter builds
+
+#### Push Cert
+* Create new cert with new identifier
+* add to key chain 
+* Export this cert for fireBase or Azure portal for push notifications
+
 ---
 ---
 ### Blogs
