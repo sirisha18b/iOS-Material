@@ -66,6 +66,14 @@ https://customersupport.doubledutch.me/hc/en-us/articles/360001189514-iOS-How-to
 * add to key chain 
 * Export this cert for fireBase or Azure portal for push notifications
 
+### AR Kit
+
+https://www.rubicon-world.com/blog/2018/06/remote-hosting-of-3d-models/
+
+##### Android 
+
+https://www.appfutura.com/blog/arcore-loading-3d-models-at-runtime/
+
 ---
 ---
 ### Blogs
