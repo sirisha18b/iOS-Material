@@ -87,3 +87,5 @@ https://www.appcoda.com/learnswiftui/
 ### YouTube
 ---
 https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw/videos
+
+https://www.youtube.com/c/EmmanuelOkwara/videos
